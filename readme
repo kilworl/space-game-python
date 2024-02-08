@@ -1,0 +1,36 @@
+
+Claro, aquí tienes una plantilla básica para un archivo README que podrías utilizar para tu código:
+
+Space Shooter
+Space Shooter es un juego simple desarrollado en Python utilizando la biblioteca Pygame.
+
+Descripción
+Space Shooter es un juego de arcade en el que el jugador controla una nave espacial y debe destruir a los enemigos que van apareciendo en la pantalla. El jugador puede mover la nave horizontal y verticalmente, así como disparar proyectiles para eliminar a los enemigos. El objetivo es obtener la mayor puntuación posible antes de ser eliminado por los enemigos.
+
+Características
+Control intuitivo de la nave espacial utilizando las teclas de flecha.
+Disparo de proyectiles para eliminar a los enemigos.
+Aparición automática de enemigos que se mueven hacia abajo en la pantalla.
+Aumento de la velocidad y dificultad con cada nivel alcanzado.
+Música de fondo y efectos de sonido.
+Instalación
+Asegúrate de tener instalado Python en tu sistema.
+
+Clona este repositorio en tu máquina local utilizando el siguiente comando:
+
+bash
+Copy code
+git clone https://github.com/tu-usuario/space-shooter.git
+Instala las dependencias necesarias utilizando pip:
+
+Copy code
+pip install -r requirements.txt
+Ejecuta el juego:
+
+css
+Copy code
+python main.py
+Controles
+Flechas izquierda y derecha: Mover la nave horizontalmente.
+Flechas arriba y abajo: Mover la nave verticalmente.
+Barra espaciadora: Disparar proyectiles.
